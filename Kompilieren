@@ -1,0 +1,6 @@
+Kompilieren und Ausführen der Java-App:
+
+Öffnen Sie das Terminal in VS Code. Gehen Sie dazu zu "Terminal" > "Neues Terminal".
+Navigieren Sie zum Verzeichnis, in dem sich Ihre Java-Datei befindet. Verwenden Sie dazu den Befehl cd <Verzeichnispfad>.
+Kompilieren Sie die Java-Datei, indem Sie den Befehl javac EmployeeRegistrationApp.java ausführen. Dadurch wird eine "EmployeeRegistrationApp.class" und "Employee.class"-Datei erstellt.
+Führen Sie Ihre Java-Anwendung mit dem Befehl java EmployeeRegistrationApp aus.
